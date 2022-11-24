@@ -16,8 +16,8 @@ export default function Testimonials() {
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Karan Saini</h4>
+              <span>CEO - Karan Web Solutions</span>
             </div>
           </div>
         </div>
@@ -29,8 +29,8 @@ export default function Testimonials() {
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Karan Saini</h4>
+              <span>CEO - Karan Web Solutions</span>
             </div>
           </div>
         </div>
@@ -42,8 +42,8 @@ export default function Testimonials() {
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Karan Saini</h4>
+              <span>CEO - Karan Web Solutions</span>
             </div>
           </div>
         </div>
