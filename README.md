@@ -1,3 +1,3 @@
 # GoTravel
 
-Gotravel :  It's a web page dedicated to making travel bookings easier .
+Gotravel :  It is a web application developed with reactjs that enhances your travel booking experience.
